@@ -48,7 +48,6 @@
 ## 📫 Connect with Me
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sourabhs-suryavanshi/)
-- 💬 [Portfolio](https://your-portfolio.com) *(Optional)*
 - 📧 Email: sourabhss9018@gmail.com
 
 ---
